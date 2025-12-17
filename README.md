@@ -1,4 +1,3 @@
-```md
 # Identificação de fatores associados à nefrotoxicidade associada ao TDF em pacientes com HIV
 
 ## 📌 Visão geral
