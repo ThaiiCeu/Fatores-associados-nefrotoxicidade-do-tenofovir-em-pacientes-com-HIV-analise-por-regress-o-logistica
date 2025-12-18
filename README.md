@@ -61,7 +61,6 @@ Os dados utilizados são **dados reais** de pacientes acompanhados longitudinalm
 
 ### 🔹 Modelo Stepwise Padronizado (melhor desempenho geral)
 **Variáveis associadas à nefrotoxicidade:**
-- **Sexo masculino** → fator protetor (OR ≈ 0.32)
 - **Idade** → aumento do risco (OR ≈ 1.93)
 - **Baixo peso (IMC)** → forte fator de risco (OR ≈ 3.52)
 - **Creatinina sérica (scr10ct)** → aumento do risco
